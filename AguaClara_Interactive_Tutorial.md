@@ -16,7 +16,7 @@ You can find a GitHub tutorial [here](https://github.com/AguaClara/aguaclara_tut
 
 1. Below this, write a sentence or two about yourself:
 
-<!--- Fill you answer here. --->
+My name is Liz and I really love dogs.
 
 
 
